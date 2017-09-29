@@ -1,0 +1,25 @@
+title:  Bahadır
+tagline:  minimalist blog.
+
+# Authors documented under _data
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+google-ID: 'UA-80213386-1'
+
+menu:
+- {name: 'Hakkımda', url: 'hakkimda.html'}
+- {name: 'Arşiv', url: 'arsiv.html'}
+- {name: 'İletişim', url: 'iletisim.html'}
+
+social:
+- {icon: 'github', link: 'https://www.github.com/bahadirkaygisiz'}
+- {icon: 'twitter', link: 'https://twitter.com/bkygsz'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
+- {icon: 'envelope', link: 'mailto:bahadikaygisiz@outlook.com'}
+- {icon: 'rss-square', link: 'feed.xml'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
