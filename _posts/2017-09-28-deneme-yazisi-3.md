@@ -5,8 +5,8 @@ author: "Bahadır"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: mountains.jpg
-  teaser: mountains-teaser.jpg
+  feature: bag.jpg
+  teaser: bag-teaser.jpg
   credit: Death to Stock Photo
   creditlink: ""
 ---
