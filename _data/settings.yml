@@ -5,8 +5,8 @@ tagline:  minimalist blog.
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  comments: true
+  disqus_shortname: bahadir_kaygisiz
 
 google-ID: 'UA-80213386-1'
 
@@ -18,7 +18,7 @@ menu:
 social:
 - {icon: 'github', link: 'https://www.github.com/bahadirkaygisiz'}
 - {icon: 'twitter', link: 'https://twitter.com/bkygsz'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
+- {icon: 'instagram', link: 'http://www.instagram.com/bkygsz'}
 - {icon: 'envelope', link: 'mailto:bahadikaygisiz@outlook.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 
