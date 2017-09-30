@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
 
 # Customise feed settings (uncommenting following two fields to customise feed title and description)
 title:		     "Bahadir"
-description:	     "minimalist blog."
+description:	     "mini blog."
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 feed:
