@@ -11,9 +11,9 @@ disqus:
 google-ID: 'UA-80213386-1'
 
 menu:
-- {name: 'Hakkımda', url: 'hakkimda.html'}
-- {name: 'Arşiv', url: 'arsiv.html'}
-- {name: 'İletişim', url: 'iletisim.html'}
+- {name: 'Hakkımda', url: 'Hakkimda'}
+- {name: 'Arşiv', url: 'Arsiv'}
+- {name: 'İletişim', url: 'iletisim'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/bahadirkaygisiz'}

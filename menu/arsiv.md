@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Arşiv
+permalink: /menu/Arsiv/
 ---
 <ul class="posts">
   {% for post in site.posts %}
